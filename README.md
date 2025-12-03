@@ -17,3 +17,5 @@ an artifact for download.
 
 Changes made in the `docs/` folder are automatically published to
 http://ammaraskar.github.io/sphinx-action-test/
+
+chjange to force actions after commit
