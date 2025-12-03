@@ -10,6 +10,8 @@ Welcome to No Errors Test Project's documentation!
    :maxdepth: 2
    :caption: Hello World!
 
+   python_versions
+
 
 
 Indices and tables
